@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <style name="Theme.BhatiaBooks" parent="android:Theme.Material.Light.NoActionBar">
-        <item name="android:statusBarColor">#2E6B45</item>
-        <item name="android:navigationBarColor">#FAFAF7</item>
-        <item name="android:windowBackground">#FAFAF7</item>
-    </style>
-</resources>
