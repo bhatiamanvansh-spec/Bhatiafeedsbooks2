@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" width="512" height="512">
+  <!-- kirpans: two curved blades sweeping out from the base -->
+  <path id="k" fill="#000" d="M266,462 C372,450 436,350 416,96 C402,244 350,360 266,418 Z"/>
+  <use xlink:href="#k" transform="translate(512,0) scale(-1,1)"/>
+  <!-- chakra ring -->
+  <circle cx="256" cy="236" r="104" fill="none" stroke="#000" stroke-width="24"/>
+  <!-- central double-edged sword -->
+  <g fill="#000" stroke="#fff" stroke-width="7" stroke-linejoin="round" paint-order="stroke">
+    <path d="M256,18 C276,66 284,116 284,180 L284,326 L228,326 L228,180 C228,116 236,66 256,18 Z"/>
+    <rect x="206" y="326" width="100" height="20" rx="8"/>
+    <rect x="243" y="346" width="26" height="64" rx="6"/>
+    <circle cx="256" cy="428" r="18"/>
+  </g>
+  <line x1="256" y1="50" x2="256" y2="318" stroke="#fff" stroke-width="4"/>
+</svg>
